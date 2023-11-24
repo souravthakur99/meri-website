@@ -1,0 +1,44 @@
+#intro{
+    width:1500px;
+height:100px;
+border: 2px azure;
+}
+#thakur{
+    background-color: white;
+    color: black;
+}
+#about{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    margin-right: 25px;
+    margin-left: 250px;
+}
+#booking{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    margin-left: 35px;
+    
+}
+#plans{
+    margin-left: 35px;
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+#member{
+    text-decoration: none;
+    color: black;
+    margin-left: 35px;
+    font-size: large;
+}
+#login{
+    text-decoration: none;
+    color: black;
+    margin-left: 35px;
+    font-size: large;
+}
+#logo{
+    margin-left: 45px;
+}
